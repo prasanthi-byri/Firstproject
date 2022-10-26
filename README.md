@@ -1,3 +1,3 @@
 # Firstproject
 
-%[](file:///C:/Users/Venu%20Gopal/Desktop/HTML/Selfdetails.html)
+# Result:-[file:///C:/Users/Venu%20Gopal/Desktop/HTML/Selfdetails.html]
